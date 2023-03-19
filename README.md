@@ -1,3 +1,6 @@
+![1](https://cdn.pixabay.com/photo/2016/10/18/19/40/anatomy-1751201__340.png)
+
+
 Google BARD AI (Better Automated Relevance Detection) is a state-of-the-art language model developed by Google. It is designed to understand natural language queries and retrieve relevant information from a large corpus of text. BARD AI is specifically trained to understand complex scientific language, making it an ideal tool for researchers and academics.
 
 On the other hand, ChatGPT is a large language model developed by OpenAI, based on the GPT architecture. It is designed to generate human-like text based on a given prompt. ChatGPT can be used for a variety of applications, such as chatbots, language translation, and content creation.
